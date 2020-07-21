@@ -1,6 +1,6 @@
 ## Steps to run this code
 
-1. git clone https://github.com/nadirlaskar/into-react.git
+1. git clone https://github.com/simonDungeon/to-do.git
 2. cd into-react
 3. `npm install`
 4. `npm start`
