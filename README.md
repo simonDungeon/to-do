@@ -1,10 +1,10 @@
 ## Steps to run this code
 
 1. git clone https://github.com/simonDungeon/to-do.git
-2. cd into-react
+2. cd into the folder
 3. `npm install`
 4. `npm start`
-
+5. Open browser and localhost
 
 ## Steps/commands to start a new ReactJS app 
 
